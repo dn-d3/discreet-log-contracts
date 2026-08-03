@@ -74,6 +74,8 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [DLC Markets](https://dlcmarkets.com/) -  Trustless OTC derivatives trading 
 * [Sovereign Citadel Terminal](https://github.com/hamzajapan/Sovereign-Citadel-Terminal)![stars](https://img.shields.io/github/stars/hamzajapan/Sovereign-Citadel-Terminal?style=social), Bitcoin-native financial OS with non-custodial DLC trading and AI risk agents
 * [BlockOracle BTC](https://github.com/barboss2000/blockoracle-btc)![stars](https://img.shields.io/github/stars/barboss2000/blockoracle-btc?style=social), Decentralized prediction game on Bitcoin L1 using DLCs and Taproot
+- [dlctix](https://github.com/tee8z/dlctix)![stars](https://img.shields.io/github/stars/tee8z/dlctix.svg?style=social) - Ticketed Discreet Log Contracts to enable instant buy-in for wager-like contracts on Bitcoin.
+- [atomic-finance](https://github.com/api-evangelist/atomic-finance)![stars](https://img.shields.io/github/stars/api-evangelist/atomic-finance.svg?style=social) - Atomic.Finance was a non-custodial, Bitcoin-native financial platform based in Toronto, Canada (founded 2018) that built options-trading and hedging products directly on Bitcoin using Discreet Log Contracts (DLCs) — with no custody, no wrapping, and no swapping.
 
 
 ## Oracles
@@ -87,6 +89,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [tee8z/noaa-oracle](https://github.com/tee8z/noaa-oracle) - NOAA data oracle, queryable from browser and can attest to events for a Bitcoin DLC in dlctix style
 * [Pythia](https://github.com/dlc-markets/pythia)![stars](https://img.shields.io/github/stars/dlc-markets/pythia?style=social), Rust implementation of p2p-derivative-oracle for DLC trading
 * [Mycelia Signal](https://github.com/jonathanbulkeley/Mycelia-Signal-Sovereign-Oracle)![stars](https://img.shields.io/github/stars/jonathanbulkeley/Mycelia-Signal-Sovereign-Oracle?style=social), Sovereign oracle protocol with DLC attestations over Lightning sats and USDC on Base
+* [pow-attest](https://attest.powforge.dev), GitHub event oracle (PR-merged / issue-closed) emitting BIP-340 Schnorr attestations; `/announcement` endpoint exposes R-point + outcome_hash for DLC CET adaptor signing; PoW-gated, no account; oracle pubkey `2bc78390c94d8bbb96ac3e6940462ba2812418d871e701c1a845fdb1dfd4a0e5`
 
 ## Community 
 * [dlc-dev mailing list](https://mailmanlists.org/mailman/listinfo/dlc-dev)
