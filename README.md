@@ -71,6 +71,7 @@ This list tracks specs, libraries, oracle implementations, and tools in the DLC 
 * [canton-lib](https://github.com/DLC-link/canton-lib)![stars](https://img.shields.io/github/stars/DLC-link/canton-lib?style=social), Public Canton related Rust library
 * [Taproot DLC Bridge](https://github.com/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts)![stars](https://img.shields.io/github/stars/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts?style=social), Trustless atomic swap bridge between Bitcoin and Fractal Bitcoin using Taproot-based DLCs
 - [sibyls](https://github.com/briefgaming/sibyls) - oracle implementation for numeric discreet log contracts
+- [evm-asset-bridge](https://github.com/DLC-link/evm-asset-bridge)![stars](https://img.shields.io/github/stars/DLC-link/evm-asset-bridge.svg?style=social) - Solidity smart contracts for bridging assets from EVM chains to the Canton Network
 
 ## Applications 
 * [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/stars/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
